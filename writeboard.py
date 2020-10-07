@@ -13,7 +13,7 @@ class WriteBoard(QWidget):
         self.__size = Size                      #使用一个私有变量来保存画板尺寸
         self.__fill = Fill                      #画板默认填充颜色
 
-        self.__thickness = 18                   #默认画笔粗细
+        self.__thickness = 10                   #默认画笔粗细
         self.__penColor = QColor(0,0,0,255)     #默认画笔颜色
 
         self.__begin_point = QPoint()
