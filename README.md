@@ -1,2 +1,2 @@
-本项目采用Python + pyqt5实现
+## 本项目采用Python + pyqt5实现
 
